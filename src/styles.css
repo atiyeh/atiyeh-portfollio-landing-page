@@ -5,8 +5,7 @@
 body {
   background-color: #f9f7fe;
 }
-h3,
-p {
+h3 {
   font-family: "Poppins", sans-serif;
   font-weight: 600;
 }
@@ -28,8 +27,9 @@ h3 {
 }
 p {
   font-size: 24px;
-  line-height: 40px;
-  color: black;
+  font-weight: normal;
+  line-height: 2;
+  font-family: "Playfair Display";
 }
 .btn-branding {
   background: var(--branding-color);
