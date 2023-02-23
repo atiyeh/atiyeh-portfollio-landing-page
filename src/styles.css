@@ -103,3 +103,6 @@ h2 {
     text-align: center;
   }
 }
+.navbar-toggler {
+  color: black;
+}
