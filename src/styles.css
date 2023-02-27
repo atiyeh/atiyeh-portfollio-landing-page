@@ -98,11 +98,18 @@ h2 {
     padding: 80px 20px;
   }
 
-  .desciption {
-    padding: 0;
-    text-align: center;
+  .paragraph {
+    padding: 0px;
   }
 }
 .navbar-toggler {
   color: black;
+}
+.about {
+  text-align: center;
+  padding-top: 100px;
+}
+.paragraph {
+  margin: 20px auto;
+  max-width: 670px;
 }
